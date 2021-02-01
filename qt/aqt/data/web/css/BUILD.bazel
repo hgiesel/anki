@@ -21,6 +21,7 @@ filegroup(
     srcs = [
         "core.css",
         "css_local",
+        "//qt/aqt/data/web/css/vendor",
     ],
     visibility = ["//qt:__subpackages__"],
 )
